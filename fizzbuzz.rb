@@ -2,7 +2,8 @@
 # See README.md for instructions on how to do this
 def fizzbuzz
   if int % 3 == 0 && int % 5 == 0 
-    "fizzbuzz"
+    "FizzBuzz"
+  elsif int
    
     "Fizz"
   end
